@@ -2,6 +2,8 @@
 Machine Learning Engineer (Certified)
 Azure AI Engineer (Certified)
 
+## Count on me to embed AI cloud services into real-world applications.
+
 Azure AI Engineer Associate with 20 years of experience in designing, developing, and deploying IT 
 solutions on Microsoft Azure. Proven expertise in machine learning, data science, and cloud computing. 
 Strong analytical and problem-solving skills with a track record of leveraging AI technologies to drive 
